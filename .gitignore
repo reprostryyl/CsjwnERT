@@ -5,10 +5,7 @@ obj
 lint.xml
 local.properties
 release.properties
-ant.properties
 *.class
-*.apk
-
 #Gradle
 .gradle
 build
@@ -28,6 +25,4 @@ pom.xml.*
 .idea
 *.iml
 
-#Lint output
-lint-report.html
 lint-report_files/*
